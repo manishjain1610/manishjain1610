@@ -29,7 +29,7 @@ Here's a glimpse into my work and interests:
 <img src="https://github.com/user-attachments/assets/a3780536-2a6c-4323-bd86-76d3e32bd137" width=5% height=5%>
 <img src="https://github.com/user-attachments/assets/713563fc-b1f6-47f1-adab-366f1dd2fbb4" width=10% height=10%>
 <img src="https://github.com/user-attachments/assets/051ac96b-1b98-4ea8-96f4-db663a850ff4" width=10% height=10%>
-
+<img src="https://github.com/user-attachments/assets/c6f0e52d-6047-4807-b38b-44ade786337d" width=10% height=10%>
 
 ## 🚧 Core Skills:
  ### Automation Testing
@@ -73,6 +73,15 @@ Here's a glimpse into my work and interests:
 - ***Leadership and team mentorship***
 - ***Strong problem-solving and analytical skills***
 - ***Effective communication and collaboration***
+
+## ✍🏻 My Sample Projects:
+- [API Testing Using Playwright](https://github.com/manishjain1610/API-Testing-Bookstore--using-Playwright)
+- [UI Automation For Bright Horizon website Using Playwright](https://github.com/manishjain1610/BrightHorizonAssignment)
+- [UI Automation For E-Commerce Website Using Playwright with Allure Reports And Lighthouse For Performance](https://github.com/manishjain1610/AutomationExercise-Website-Using-Playwright)
+- [HerokuApp Website UI Testing Using Selenium With TestNG And Extent Reports](https://github.com/manishjain1610/The-Heroku-App-Selenium-Java-TestNG-ExtentReport)
+- [Native Android App Testing Using Appium](https://github.com/manishjain1610/Appium-Sample-Project)
+- [API Testing Using Rest-Assured And Cucumber](https://github.com/manishjain1610/APITestingUsingRestAssuredAndCucumber)
+
 
 ## 🌱 Current Interests
 I'm continually exploring advancements in automated testing and looking for innovative ways to integrate tools like Playwright into CI/CD pipelines. Enhancing test reliability and efficiency is a key focus area for me.
