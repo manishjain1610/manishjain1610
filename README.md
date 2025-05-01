@@ -7,6 +7,8 @@ Here are some ideas to get you started:
 
 -->
 
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=manishjain1610)
+
 ## 👨‍💻 About Me:
 Welcome to my GitHub profile. I am Manish Jain, a seasoned Quality Engineer with over 20 years of experience. I specialize in designing, implementing, and optimizing automation projects for enhanced scalability, availability, and performance. With a strong foundation in advanced QA methodologies, problem-solving, and Agile leadership, I drive project success through technical excellence and collaborative teamwork.
 
